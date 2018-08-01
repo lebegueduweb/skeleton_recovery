@@ -1,0 +1,44 @@
+ .sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+.sidebar li a, .sidebar .sidebar-brand {
+    color: #fff !important;
+}
+
+.sidebar-nav li a:hover, .sidebarbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: white !important;
+}
+.col-sm-10 >h1{
+background-color :skyblue;
+text-align: center;
+}
+
+.sidebar-default .sidebar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+  }
+.col-sm-2 {
+
+}
+.sidebar-nav{
+margin-bottom: 0;
+    background-color: #41d3f4;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-syle : bold,
+}
+*{
+  background-color: #e6e6e6;
+  }
